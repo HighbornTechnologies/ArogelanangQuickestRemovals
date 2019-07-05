@@ -1,0 +1,41 @@
+#F0CDA0
+#464B7E
+#979AB9
+
+
+00:53 Setup
+02:59 Container
+03:37 Page Header
+04:09 Jumbotron
+05:31 Button Styling
+09:40 Grid Layouts / Responsive Layouts
+17:02 Responsively Hiding Elements 
+18:54 Offset
+20:04 Table Styling
+21:17 CSS Styling with Bootstrap 
+24:34 Carousel / Slide Shows
+28:32 Icons
+31:33 Well
+32:16 Image Styling
+33:27 Contextual Colors
+34:28 Dropdown Menus
+38:07 Input Groups
+42:51 Horizontal Menus
+44:56 Vertical Menus
+47:00 Tabbed Panels
+51:05 Responsive Navigation Bar
+54:38 Pagination
+56:16 Responsive Blog Layout
+58:02 Progress Bars
+59:30 Responsive Blog Layout 2
+1:01:30 List Groups
+
+<DIV class="jumbotron" id="add_box" >
+					<DIV>
+						<P>We are easy to find <BR>From R 400.00 per Mile</P>
+					</DIV>
+					<DIV>
+						<P>We are easy to find <BR>From R 400.00 per Mile</P>
+					</DIV>
+					
+				</DIV>

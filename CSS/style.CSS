@@ -1,0 +1,172 @@
+/** MAREMANE TP 201408956 **/
+
+H1 {
+	TEXT-ALIGN: LEFT;
+	COLOR: black;
+	LINE-HEIGHT: 1;
+	FONT-SIZE: 40PX;
+}
+#name_k{
+	color: darkorange;
+}
+
+
+Body {
+	color: black;
+	/*#  
+		darkorange
+		#A04000
+		
+		BACKGROUND-COLOR: #FDF6E4;
+		FONT-STYLE: ITALIC;
+		
+	*/
+}
+
+HR {
+	BACKGROUND-COLOR: DARKORANGE;
+}
+/* Header  */
+#contact_header{
+	height: 100%;
+	width:80%;
+}
+#address_header{
+	height: 100%;
+	width:100%;
+	
+}
+
+/* Add Box  */
+#add_box_background {
+	HEIGHT: 600px;
+	background-image: url("../Picture/img_00.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: relative;
+
+}
+
+#add_image{
+	DISPLAY: BLOCK;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#add_box {
+	margin: 0;
+	HEIGHT: 60%;
+	WIDTH: 70%;
+	
+
+	
+	top: 50%;
+	left:50%;
+	position: absolute;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	
+	background-color: darkorange;
+
+}
+
+/* Body Content  */
+.BodyImage {
+	HEIGHT: 75%;
+	WIDTH: 100%;
+	DISPLAY: BLOCK;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.BodyHeader {
+	HEIGHT: 15%;
+	WIDTH: 100%;
+}
+
+
+/* Foot  */
+#foot{
+	
+	BACKGROUND-COLOR: darkorange;
+/* 
+	#979AB9
+
+*/
+
+
+}
+
+.Foot{
+	BACKGROUND-COLOR: #464B7E;
+	HEIGHT: 400px;
+	WIDTH: 24%;
+}
+#map{
+	HEIGHT: 100%;
+	WIDTH: 25;
+	overflow: auto;
+}
+
+.AboutUsFooter{
+	font-family: Times New Roman;
+	line-height: 15px;
+	font-size: 60pt:
+	
+}
+
+/* Helper */
+
+/*
+
+H1 {
+	TEXT-ALIGN: LEFT;
+	COLOR: DARKGREEN;
+	LINE-HEIGHT: 1;
+	FONT-SIZE: 40PX;
+}
+
+H5 {
+	TEXT-ALIGN: CENTER;
+	COLOR: DARKGREEN;
+}
+H2 {
+	
+	TEXT-DECORATION: UNDERLINE;
+	COLOR: DARKGREEN;
+	LINE-HEIGHT: 2;
+} 
+
+A{
+	TEXT-ALIGN: TOP;
+}
+
+UL, OL {
+	LINE-HEIGHT: 4;
+	TEXT-DECORATION: BOLD;
+	FONT-SIZE: 20PX;
+	FONT-WEIGHT: BOLD;
+}
+
+P {
+	TEXT-ALIGN: CENTER;
+	COLOR: DARKGREEN;
+	LINE-HEIGHT: 0.0001;
+	FONT-SIZE: 3EM;
+}
+
+
+H3{
+	TEXT-ALIGN: RIGHT;
+	COLOR: DARKGREEN;
+	LINE-HEIGHT: 0.0001;
+	FONT-SIZE: 9.5EM;
+}
+
+H6{
+	TEXT-ALIGN: CENTER;
+	COLOR: DARKGREEN;
+	LINE-HEIGHT: ;
+	FONT-SIZE: 3.5EM;
+}
+*/
